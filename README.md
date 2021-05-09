@@ -11,3 +11,6 @@ Mediapipe 외에 다른 github을 참고하지는 않았으며, opencv 함수의
 colab 링크: https://colab.research.google.com/drive/1NMwR42akhjin7VCTRWms6LZPg053_Ksy
 
 test 동영상 링크: https://youtu.be/wjznjM42Ei8
+
+https://github.com/juhan-y/mediapipe 
+hands solutions의 colab부분 이용했습니다!
