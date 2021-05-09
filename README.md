@@ -14,3 +14,5 @@ test 동영상 링크: https://youtu.be/wjznjM42Ei8
 
 https://github.com/juhan-y/mediapipe 
 hands solutions의 colab부분 이용했습니다!
+
+같은 파일 대상 python파일과 ipynb파일 두 형식으로 모두 업로드 완료했습니다.
